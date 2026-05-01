@@ -1,0 +1,29 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement name="main-panel" style="flex-grow: 1;">
+        <ui:Image name="teduLogo" source="project://database/Assets/Images/tedu.png?fileID=2800000&amp;guid=0677dbfa1a52db94c98725bb81de12e1&amp;type=3#tedu" style="height: 138px; width: 352px; align-items: center; justify-content: center;"/>
+        <ui:Label text="GuidAR" enable-rich-text="true" style="height: 49px; -unity-text-align: middle-center; white-space: pre; text-overflow: clip; font-size: 40px; -unity-font-style: bold; -unity-text-outline-color: rgb(255, 255, 255); -unity-text-outline-width: 1px; color: rgb(26, 22, 185);"/>
+        <ui:Label text="By Team Aris" style="font-size: 20px; justify-content: center; align-items: stretch; -unity-text-align: middle-center; height: 18px; -unity-text-outline-width: 1px; -unity-text-outline-color: rgb(26, 22, 185);"/>
+        <ui:VisualElement style="flex-grow: 1; -unity-text-align: middle-left; white-space: normal; justify-content: space-around; background-color: rgb(153, 153, 153);">
+            <ui:Button text="Start Navigation" name="start-button" style="height: 74px; -unity-font-style: bold; font-size: 30px;">
+                <Bindings>
+                    <UnityEngine.Localization.LocalizedString property="text" table="GUID:8b488bb046c438547a21e8761ec0ecc7" entry="Id(232484159488)"/>
+                </Bindings>
+            </ui:Button>
+            <ui:Button text="Options" name="settings-button" style="height: 64px; -unity-font-style: bold; font-size: 26px;">
+                <Bindings>
+                    <UnityEngine.Localization.LocalizedString property="text" table="GUID:8b488bb046c438547a21e8761ec0ecc7" entry="Id(237412466688)"/>
+                </Bindings>
+            </ui:Button>
+            <ui:Button text="Credits&#10;" name="credits-button" style="height: 46px; -unity-font-style: bold; font-size: 22px;">
+                <Bindings>
+                    <UnityEngine.Localization.LocalizedString property="text" table="GUID:8b488bb046c438547a21e8761ec0ecc7" entry="Id(379666481152)"/>
+                </Bindings>
+            </ui:Button>
+            <ui:Button text="Quit" name="quit-button" style="height: 46px; -unity-font-style: bold; font-size: 22px;">
+                <Bindings>
+                    <UnityEngine.Localization.LocalizedString property="text" table="GUID:8b488bb046c438547a21e8761ec0ecc7" entry="Id(31629944995840)"/>
+                </Bindings>
+            </ui:Button>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

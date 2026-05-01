@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Main Menu Labels_tr
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: tr
+  m_SharedData: {fileID: 11400000, guid: 8b488bb046c438547a21e8761ec0ecc7, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 232484159488
+    m_Localized: "Navigasyonu Ba\u015Flat"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 237412466688
+    m_Localized: Ayarlar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 379666481152
+    m_Localized: Jenerik
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31629944995840
+    m_Localized: "Uygulamadan \xC7\u0131k"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 111256067555328
+    m_Localized: Dil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 111249381834752
+    m_Localized: "M\xFCzik Sesi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 111254368862208
+    m_Localized: Efekt Sesi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 112316672819200
+    m_Localized: "Aris Tak\u0131m\u0131 Bitirme Projesi\n\n**Geli\u015Ftiriciler**\r\nAltu\u011F
+      Berke Akman\nAlperen Karada\u011F\nBerk Belhan\nCeren K\u0131z\u0131l\u0131rmak\r\n\r\n**\xD6zel
+      Te\u015Fekk\xFCrler**\nGeli\u015Ftirme s\xFCrecine\nyard\u0131mc\u0131 olan
+      t\xFCm test\xE7ilere \nve katk\u0131da bulunanlara."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

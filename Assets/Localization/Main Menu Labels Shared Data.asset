@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Main Menu Labels Shared Data
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.SharedTableData
+  m_TableCollectionName: Main Menu Labels
+  m_TableCollectionNameGuidString: 8b488bb046c438547a21e8761ec0ecc7
+  m_Entries:
+  - m_Id: 232484159488
+    m_Key: mainMenu.start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 237412466688
+    m_Key: mainMenu.options
+    m_Metadata:
+      m_Items: []
+  - m_Id: 379666481152
+    m_Key: mainMenu.credits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31629944995840
+    m_Key: mainMenu.quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 111249381834752
+    m_Key: mainMenu.music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 111254368862208
+    m_Key: mainMenu.sfx
+    m_Metadata:
+      m_Items: []
+  - m_Id: 111256067555328
+    m_Key: mainMenu.language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 112316672819200
+    m_Key: mainMenu.ctext
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 8237681885498835230
+  references:
+    version: 2
+    RefIds:
+    - rid: 8237681885498835230
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1777636166092
