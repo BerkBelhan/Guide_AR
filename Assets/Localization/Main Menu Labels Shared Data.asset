@@ -47,6 +47,54 @@ MonoBehaviour:
     m_Key: mainMenu.ctext
     m_Metadata:
       m_Items: []
+  - m_Id: 1156864365506560
+    m_Key: GardenPOI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1161083826941952
+    m_Key: ToiletsPOImcl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1161869919203328
+    m_Key: ToiletsPOImcf
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1162619965616128
+    m_Key: ToiletsPOIfcl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1162623862124544
+    m_Key: ToiletsPOIfcf
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1163974771945472
+    m_Key: AhmetErsanPOI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1164510522978304
+    m_Key: FinancialAffairsPOI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1165624207159296
+    m_Key: StaffRoomPOI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1165730096558080
+    m_Key: ReceptionPOI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1165870018539520
+    m_Key: ErasmusOfficePOI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1166026612879360
+    m_Key: CareerCenterPOI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1166131998961664
+    m_Key: HumanResourcesPOI
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

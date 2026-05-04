@@ -52,6 +52,54 @@ MonoBehaviour:
       Thanks**\nAll testers and contributors who helped improve \nthe experience.\n\n\n\n"
     m_Metadata:
       m_Items: []
+  - m_Id: 1156864365506560
+    m_Localized: Garden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1161083826941952
+    m_Localized: Toilets M (Conference Lobby)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1161869919203328
+    m_Localized: Toilets M (Conference Floor 1)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1162619965616128
+    m_Localized: Toilets W (Conference Lobby)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1162623862124544
+    m_Localized: Toilets W (Conference Floor 1)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1163974771945472
+    m_Localized: Ahmet Ersan Conference Hall
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1164510522978304
+    m_Localized: Financial Affairs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1165624207159296
+    m_Localized: Staff Room
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1165730096558080
+    m_Localized: Reception
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1165870018539520
+    m_Localized: Erasmus Office
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1166026612879360
+    m_Localized: Career Center
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1166131998961664
+    m_Localized: Human Resources
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

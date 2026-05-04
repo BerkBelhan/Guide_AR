@@ -50,6 +50,54 @@ MonoBehaviour:
     m_Localized: '-'
     m_Metadata:
       m_Items: []
+  - m_Id: 1156864365506560
+    m_Localized: Garten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1161083826941952
+    m_Localized: Toiletten H (Konferenzlobby)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1161869919203328
+    m_Localized: Toiletten H (Konferenzetage 1)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1162619965616128
+    m_Localized: Damen-Toiletten (Konferenzlobby)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1162623862124544
+    m_Localized: Damen-Toiletten (Konferenzetage 1)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1163974771945472
+    m_Localized: Ahmet Ersan Konferenzsaal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1164510522978304
+    m_Localized: Finanzangelegenheiten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1165624207159296
+    m_Localized: Personalraum
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1165730096558080
+    m_Localized: Rezeption
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1165870018539520
+    m_Localized: "Erasmus-B\xFCro"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1166026612879360
+    m_Localized: Karrierezentrum
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1166131998961664
+    m_Localized: Personalabteilung
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

@@ -50,6 +50,54 @@ MonoBehaviour:
     m_Localized: '-'
     m_Metadata:
       m_Items: []
+  - m_Id: 1156864365506560
+    m_Localized: Jardin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1161083826941952
+    m_Localized: "Toilettes H (Hall de Conf\xE9rence)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1161869919203328
+    m_Localized: "Toilettes H (\xC9tage de Conf\xE9rence 1)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1162619965616128
+    m_Localized: "Toilettes F (Hall de Conf\xE9rence)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1162623862124544
+    m_Localized: "Toilettes F (\xC9tage de Conf\xE9rence)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1163974771945472
+    m_Localized: "Salle de Conf\xE9rence Ahmet Ersan"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1164510522978304
+    m_Localized: "Affaires Financi\xE8res"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1165624207159296
+    m_Localized: Salle du Personnel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1165730096558080
+    m_Localized: "R\xE9ception"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1165870018539520
+    m_Localized: Bureau Erasmus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1166026612879360
+    m_Localized: "Centre de Carri\xE8re"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1166131998961664
+    m_Localized: Ressources Humaines
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
