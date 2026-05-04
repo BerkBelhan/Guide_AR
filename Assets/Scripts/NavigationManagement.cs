@@ -1,6 +1,8 @@
 using UnityEngine;
 using UnityEngine.UIElements;
+using UnityEngine.SceneManagement;
 using UnityEngine.Audio;
+using UnityEngine.InputSystem;
 using UnityEngine.Localization.Settings;
 
 public class NavigationManagement : MonoBehaviour
@@ -30,6 +32,7 @@ public class NavigationManagement : MonoBehaviour
 
         settingsPanel = setting.Q<VisualElement>("settings-panel");
         var closeSettingsButton = setting.Q<Button>("close-Sbutton");
+        var quitButton = setting.Q<Button>("quitmenu-button");
 
         musicSlider = setting.Q<Slider>("music-slider");
         sfxSlider = setting.Q<Slider>("sfx-slider");
@@ -37,6 +40,7 @@ public class NavigationManagement : MonoBehaviour
         languageDropdown = setting.Q<DropdownField>("language-setting");
 
         closeSettingsButton.clicked += HideSettings;
+        quitButton.clicked += OnQuitMenu;
 
         settingsPanel.style.display = DisplayStyle.None;
 
@@ -119,6 +123,11 @@ public class NavigationManagement : MonoBehaviour
     float ToDb(float value)
     {
         return Mathf.Log10(Mathf.Clamp(value, 0.0001f, 1f)) * 20f;
+    }
+
+    void OnQuitMenu()
+    {
+        SceneManager.LoadScene(0);
     }
 
     // ---------------- LANGUAGE ----------------
